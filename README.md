@@ -20,9 +20,9 @@ the second puzzle is unlocked when you complete the first. Each puzzle grants on
 | 07            | :star:        | :star:        |
 | 08            | :star:        | :star:        |
 | 09            | :star:        | :star:        |
-| 10            | :star:        | :star:           |
+| 10            | :star:        | :star:        |
 | 11            | :star:        | :star:        |
-| 12            | :star:        | :x:           |
+| 12            | :star:        | :star:        |
 | 13            | :star:        | :star:        |
 | 14            | :x:           | :x:           |
 | 15            | :star:        | :x:           |
